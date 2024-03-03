@@ -1,0 +1,14 @@
+E:\Udemy C#\ChallengeString2\ChallengeString2\bin\Debug\net8.0\ChallengeString2.exe
+E:\Udemy C#\ChallengeString2\ChallengeString2\bin\Debug\net8.0\ChallengeString2.deps.json
+E:\Udemy C#\ChallengeString2\ChallengeString2\bin\Debug\net8.0\ChallengeString2.runtimeconfig.json
+E:\Udemy C#\ChallengeString2\ChallengeString2\bin\Debug\net8.0\ChallengeString2.dll
+E:\Udemy C#\ChallengeString2\ChallengeString2\bin\Debug\net8.0\ChallengeString2.pdb
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.AssemblyInfoInputs.cache
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.AssemblyInfo.cs
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.csproj.CoreCompileInputs.cache
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.dll
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\refint\ChallengeString2.dll
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.pdb
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ChallengeString2.genruntimeconfig.cache
+E:\Udemy C#\ChallengeString2\ChallengeString2\obj\Debug\net8.0\ref\ChallengeString2.dll
