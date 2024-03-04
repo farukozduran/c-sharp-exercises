@@ -1,0 +1,14 @@
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\bin\Debug\net8.0\ChallengeIfStatements.exe
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\bin\Debug\net8.0\ChallengeIfStatements.deps.json
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\bin\Debug\net8.0\ChallengeIfStatements.runtimeconfig.json
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\bin\Debug\net8.0\ChallengeIfStatements.dll
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\bin\Debug\net8.0\ChallengeIfStatements.pdb
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.AssemblyInfoInputs.cache
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.AssemblyInfo.cs
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.csproj.CoreCompileInputs.cache
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.dll
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\refint\ChallengeIfStatements.dll
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.pdb
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ChallengeIfStatements.genruntimeconfig.cache
+E:\Udemy C#\ChallengeIfStatements\ChallengeIfStatements\obj\Debug\net8.0\ref\ChallengeIfStatements.dll
