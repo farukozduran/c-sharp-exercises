@@ -1,0 +1,14 @@
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.AssemblyInfoInputs.cache
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.AssemblyInfo.cs
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.csproj.CoreCompileInputs.cache
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net8.0\EnhancedIfStatementsChallenge.exe
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net8.0\EnhancedIfStatementsChallenge.deps.json
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net8.0\EnhancedIfStatementsChallenge.runtimeconfig.json
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net8.0\EnhancedIfStatementsChallenge.dll
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net8.0\EnhancedIfStatementsChallenge.pdb
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.dll
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\refint\EnhancedIfStatementsChallenge.dll
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.pdb
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\EnhancedIfStatementsChallenge.genruntimeconfig.cache
+E:\Udemy C#\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net8.0\ref\EnhancedIfStatementsChallenge.dll
