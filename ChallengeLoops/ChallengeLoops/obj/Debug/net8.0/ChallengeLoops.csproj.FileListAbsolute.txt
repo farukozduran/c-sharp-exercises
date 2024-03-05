@@ -1,0 +1,14 @@
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\bin\Debug\net8.0\ChallengeLoops.exe
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\bin\Debug\net8.0\ChallengeLoops.deps.json
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\bin\Debug\net8.0\ChallengeLoops.runtimeconfig.json
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\bin\Debug\net8.0\ChallengeLoops.dll
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\bin\Debug\net8.0\ChallengeLoops.pdb
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.AssemblyInfoInputs.cache
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.AssemblyInfo.cs
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.csproj.CoreCompileInputs.cache
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.dll
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\refint\ChallengeLoops.dll
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.pdb
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ChallengeLoops.genruntimeconfig.cache
+E:\Udemy C#\ChallengeLoops\ChallengeLoops\obj\Debug\net8.0\ref\ChallengeLoops.dll
