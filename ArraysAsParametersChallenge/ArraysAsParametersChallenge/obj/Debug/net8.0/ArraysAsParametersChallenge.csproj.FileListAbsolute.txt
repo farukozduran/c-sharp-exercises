@@ -1,0 +1,14 @@
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net8.0\ArraysAsParametersChallenge.exe
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net8.0\ArraysAsParametersChallenge.deps.json
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net8.0\ArraysAsParametersChallenge.runtimeconfig.json
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net8.0\ArraysAsParametersChallenge.dll
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\bin\Debug\net8.0\ArraysAsParametersChallenge.pdb
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.AssemblyInfoInputs.cache
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.AssemblyInfo.cs
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.csproj.CoreCompileInputs.cache
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.dll
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\refint\ArraysAsParametersChallenge.dll
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.pdb
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ArraysAsParametersChallenge.genruntimeconfig.cache
+E:\Udemy C#\ArraysAsParametersChallenge\ArraysAsParametersChallenge\obj\Debug\net8.0\ref\ArraysAsParametersChallenge.dll
