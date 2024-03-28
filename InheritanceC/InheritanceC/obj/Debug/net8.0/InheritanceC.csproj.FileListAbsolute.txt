@@ -1,0 +1,14 @@
+E:\Udemy C#\InheritanceC\InheritanceC\bin\Debug\net8.0\InheritanceC.exe
+E:\Udemy C#\InheritanceC\InheritanceC\bin\Debug\net8.0\InheritanceC.deps.json
+E:\Udemy C#\InheritanceC\InheritanceC\bin\Debug\net8.0\InheritanceC.runtimeconfig.json
+E:\Udemy C#\InheritanceC\InheritanceC\bin\Debug\net8.0\InheritanceC.dll
+E:\Udemy C#\InheritanceC\InheritanceC\bin\Debug\net8.0\InheritanceC.pdb
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.AssemblyInfoInputs.cache
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.AssemblyInfo.cs
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.csproj.CoreCompileInputs.cache
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.dll
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\refint\InheritanceC.dll
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.pdb
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\InheritanceC.genruntimeconfig.cache
+E:\Udemy C#\InheritanceC\InheritanceC\obj\Debug\net8.0\ref\InheritanceC.dll
