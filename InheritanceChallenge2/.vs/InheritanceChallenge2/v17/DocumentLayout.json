@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Udemy C#\\InheritanceChallenge2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|e:\\udemy c#\\inheritancechallenge2\\inheritancechallenge2\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|solutionrelative:inheritancechallenge2\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|e:\\udemy c#\\inheritancechallenge2\\inheritancechallenge2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|solutionrelative:inheritancechallenge2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|e:\\udemy c#\\inheritancechallenge2\\inheritancechallenge2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|solutionrelative:inheritancechallenge2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|e:\\udemy c#\\inheritancechallenge2\\inheritancechallenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A64F246-9FE9-4A65-8CE3-0CD3F609E215}|InheritanceChallenge2\\InheritanceChallenge2.csproj|solutionrelative:inheritancechallenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Trainee.cs",
+              "RelativeDocumentMoniker": "InheritanceChallenge2\\Trainee.cs",
+              "ToolTip": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Trainee.cs",
+              "RelativeToolTip": "InheritanceChallenge2\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:26:23.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Boss.cs",
+              "RelativeDocumentMoniker": "InheritanceChallenge2\\Boss.cs",
+              "ToolTip": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Boss.cs",
+              "RelativeToolTip": "InheritanceChallenge2\\Boss.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:24:11.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Employee.cs",
+              "RelativeDocumentMoniker": "InheritanceChallenge2\\Employee.cs",
+              "ToolTip": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Employee.cs",
+              "RelativeToolTip": "InheritanceChallenge2\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:22:14.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceChallenge2\\Program.cs",
+              "ToolTip": "E:\\Udemy C#\\InheritanceChallenge2\\InheritanceChallenge2\\Program.cs",
+              "RelativeToolTip": "InheritanceChallenge2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:16:37.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

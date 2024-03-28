@@ -1,0 +1,14 @@
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net8.0\InheritanceChallenge2.exe
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net8.0\InheritanceChallenge2.deps.json
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net8.0\InheritanceChallenge2.runtimeconfig.json
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net8.0\InheritanceChallenge2.dll
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net8.0\InheritanceChallenge2.pdb
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.AssemblyInfo.cs
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.dll
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\refint\InheritanceChallenge2.dll
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.pdb
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\InheritanceChallenge2.genruntimeconfig.cache
+E:\Udemy C#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net8.0\ref\InheritanceChallenge2.dll
